@@ -33,5 +33,4 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/CSharpVault.git](https://github.com/YOUR_GITHUB_USERNAME/CSharpVault.git)
-   cd CSharpVault
+git remote add origin https://github.com/matodzi-nevhutala/CSharpVault.git
