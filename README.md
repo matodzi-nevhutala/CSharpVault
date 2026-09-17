@@ -32,5 +32,4 @@ Ensure you have the following installed on your machine:
 ### Installation & Run Instructions
 
 1. **Clone the repository:**
-   ```bash
 git remote add origin https://github.com/matodzi-nevhutala/CSharpVault.git
